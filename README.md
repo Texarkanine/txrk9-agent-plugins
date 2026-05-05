@@ -13,7 +13,7 @@ Curated **Cursor** and **Claude Code** marketplace catalogs listing agent plugin
 
 ### [SLOBAC](https://github.com/Texarkanine/slobac) (`slobac`)
 
-Test-suite audit for mature codebases: orchestrates read-only assessment of a target test directory against the [SLOBAC manifesto](https://texarkanine.github.io/slobac/), producing a markdown report of smells (taxonomy-defined slugs), behavior summaries, and prescribed fixes. Ships multiple skills (`audit`, `scout`, `batch`, `cross-suite`); invoke e.g. `/slobac:audit` after install.
+Test-suite audit for mature codebases: orchestrates read-only assessment of a target test directory against the [SLOBAC manifesto](https://texarkanine.github.io/slobac/), producing a markdown report of smells (taxonomy-defined slugs), behavior summaries, and prescribed fixes. Ships one skill (`audit`) that internally dispatches subagent workflows; invoke `/slobac-audit` (Cursor) or `/slobac:audit` (Claude Code) after install.
 
 ## Adding this marketplace
 
