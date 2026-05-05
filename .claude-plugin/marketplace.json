@@ -1,0 +1,12 @@
+{
+  "name": "txrk9-agent-plugins",
+  "owner": { "name": "Texarkanine" },
+  "description": "Agent plugins by Texarkanine.",
+  "plugins": [
+    {
+      "name": "slobac",
+      "source": { "source": "github", "repo": "Texarkanine/slobac" },
+      "description": "Test-suite audit: find and fix smells in mature test suites."
+    }
+  ]
+}
