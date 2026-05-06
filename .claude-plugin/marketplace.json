@@ -1,7 +1,7 @@
 {
   "name": "txrk9-agent-plugins",
   "owner": { "name": "Texarkanine" },
-  "description": "Agent plugins by Texarkanine.",
+  "description": "Claude Code plugins by Texarkanine.",
   "plugins": [
     {
       "name": "slobac",
