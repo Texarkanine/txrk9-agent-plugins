@@ -9,11 +9,6 @@
       "description": "Test-suite audit: find and fix smells in mature test suites."
     },
     {
-      "name": "cursor-warehouse",
-      "source": { "source": "github", "repo": "Texarkanine/cursor-warehouse" },
-      "description": "Ingest your Cursor conversations into a duckdb for analysis and search."
-    },
-    {
       "name": "stockroom",
       "source": { "source": "github", "repo": "Texarkanine/stockroom" },
       "description": "Local, faithful, searchable warehouse of your agentic-coding history."
